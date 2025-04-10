@@ -17,7 +17,7 @@
 
 ## ✨ Sobre mim
 
-Muito prazer, sou **Larissa Campos**, estudante do último semestre de Análise e Desenvolvimento de Sistemas na Faculdade CCI.
+Muito prazer, sou **Larissa Campos**, estudante do último semestre de Análise e Desenvolvimento de Sistemas.
 
 Tenho experiência em:
 - Suporte técnico e gestão de TI 🛠️
@@ -29,18 +29,6 @@ Tenho experiência em:
 💡 Estou sempre em busca de desafios para aprimorar meus conhecimentos e aplicar soluções **eficientes** e **inovadoras**.
 
 ---
-
-## 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
-Perfeito, Larissa! Vamos adicionar Styled-Components à sua tech stack no README.md de forma estilosa e integrada com os outros badges que você já tem. Aqui está o trecho atualizado da seção de tecnologias:
-
-⸻
 
 🚀 Tech Stack (com Styled-Components incluído)
 
@@ -71,7 +59,7 @@ Perfeito, Larissa! Vamos adicionar Styled-Components à sua tech stack no README
 ## 📬 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-campos-227035243/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](larecampos.lc@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:larecampos.lc@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white)](https://seuportfolio.com)
 
 ---
