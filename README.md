@@ -23,16 +23,10 @@ Tenho experiência em:
 - Suporte técnico e gestão de TI 🛠️
 - Metodologias ágeis como **Scrum** e **Kanban**
 - Desenvolvimento front-end com **React Native** e **JavaScript**
-- Conhecimentos sólidos em **Active Directory**, **C#** e **Nest.js**
+- Conhecimentos em **Active Directory**, **C#** e **Nest.js**
 
-🧠 Minha trajetória me permitiu desenvolver habilidades como:
-- Organização e gestão de tempo
-- Comunicação e resolução de problemas
-- Tomada de decisões e trabalho em equipe
 
 💡 Estou sempre em busca de desafios para aprimorar meus conhecimentos e aplicar soluções **eficientes** e **inovadoras**.
-
-Se quiser trocar ideias ou explorar oportunidades na área de tecnologia, ficarei super feliz em me conectar! 🤝
 
 ---
 
@@ -43,12 +37,25 @@ Se quiser trocar ideias ou explorar oportunidades na área de tecnologia, ficare
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+Perfeito, Larissa! Vamos adicionar Styled-Components à sua tech stack no README.md de forma estilosa e integrada com os outros badges que você já tem. Aqui está o trecho atualizado da seção de tecnologias:
+
+⸻
+
+🚀 Tech Stack (com Styled-Components incluído)
+
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+
 
 ---
 
@@ -64,10 +71,9 @@ Se quiser trocar ideias ou explorar oportunidades na área de tecnologia, ficare
 ## 📬 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-campos-227035243/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](larecampos.lc@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white)](https://seuportfolio.com)
 
 ---
 
 > “A tecnologia move o mundo, mas são as pessoas que escrevem o código.”  
-> ☕ Stanley sempre por perto. Café nunca falha. 💻
