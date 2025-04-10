@@ -9,9 +9,11 @@
 </p>
 
 ---
+🎓 **Developer Software**| 23 anos | Coração animado, mente geek e alma movida a café ☕
 
-### 💻 Front-End Developer | Buscando aprimorar para Full-Stack  
-🎓 Analista de Sistemas 
+👩‍💻 Analista de Sistemas em formação e apaixonada por transformar ideias em interfaces vivas. Sou aquela dev que vibra com um código limpo, se empolga com um layout bem alinhado e acredita que um bom café resolve qualquer bug.
+
+🚀 Com os pés no front-end e os olhos no full-stack, amo unir design, performance e boas práticas.
 
 ---
 
