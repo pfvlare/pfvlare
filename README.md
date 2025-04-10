@@ -4,9 +4,10 @@
   <img src="./assets/pixel-larissa.jpeg" alt="Pixel Art Larissa" width="250" />
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   🇧🇷 Olá | 🇺🇸 Hello | 🇪🇸 Hola
 </p>
+
 
 ---
 🎓 **Developer Software** | 23 anos | Coração animado, mente geek e alma movida a café ☕
