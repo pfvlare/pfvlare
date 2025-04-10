@@ -11,7 +11,7 @@
 ---
 
 ### 💻 Front-End Developer | Buscando aprimorar para Full-Stack  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Analista de Sistemas 
 
 ---
 
@@ -20,17 +20,15 @@
 Muito prazer, sou **Larissa Campos**, estudante do último semestre de Análise e Desenvolvimento de Sistemas.
 
 Tenho experiência em:
-- Suporte técnico e gestão de TI 🛠️
-- Metodologias ágeis como **Scrum** e **Kanban**
-- Desenvolvimento front-end com **React Native** e **JavaScript**
-- Conhecimentos em **Active Directory**, **C#** e **Nest.js**
+- Suporte técnico e gestão de TI 🛠️💻
+- Metodologias ágeis como **Scrum** e **Kanban** 📋⏱️
+- Desenvolvimento front-end com **React Native** e **JavaScript** ⚛️🖥️
+- Conhecimentos em **Active Directory**, **C#** e **Nest.js** 🔐🧩🚀
 
 
 💡 Estou sempre em busca de desafios para aprimorar meus conhecimentos e aplicar soluções **eficientes** e **inovadoras**.
 
 ---
-
-🚀 Tech Stack (com Styled-Components incluído)
 
 ## 🚀 Tech Stack
 
@@ -49,10 +47,13 @@ Tenho experiência em:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pfvlare&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfvlare&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pfvlare&show_icons=true&theme=radical" width="60%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfvlare&layout=compact&theme=radical" width="60%" />
+
+</div>
 
 ---
 
