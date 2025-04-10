@@ -4,8 +4,8 @@
   <img src="./assets/pixel-larissa.jpeg" alt="Pixel Art Larissa" width="250" />
 </p>
 
-<p align="center">
-  🇧🇷 Olá | 🇺🇸 Hello | 🇪🇸 Hola  
+<p style="text-align: center;">
+  🇧🇷 Olá | 🇺🇸 Hello | 🇪🇸 Hola
 </p>
 
 ---
