@@ -65,7 +65,7 @@ Tenho experiência em:
 
 ---
 
-> “A tecnologia move o mundo, mas são as pessoas que escrevem o código.”
+> “Códigos constroem o futuro, mas é a imaginação humana que o torna extraordinário.” - Larissa Campos 🩵
 
 <!-- Assinatura com imagem no canto inferior direito -->
 <div align="right">
