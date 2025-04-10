@@ -65,4 +65,9 @@ Tenho experiência em:
 
 ---
 
-> “A tecnologia move o mundo, mas são as pessoas que escrevem o código.”  
+> “A tecnologia move o mundo, mas são as pessoas que escrevem o código.”
+
+<!-- Assinatura com imagem no canto inferior direito -->
+<div align="right">
+  <img src="./assets/pixel-xicara.jpeg" alt="Assinatura Pixel Xícara" width="100"/>
+</div>
