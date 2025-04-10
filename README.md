@@ -63,7 +63,7 @@ Tenho experiência em:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-campos-227035243/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:larecampos.lc@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white)](https://seuportfolio.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white)]([https://seuportfolio.com](https://portfolio-ten-rho-31.vercel.app/))
 
 ---
 
