@@ -9,7 +9,7 @@
 </p>
 
 ---
-🎓 **Developer Software**| 23 anos | Coração animado, mente geek e alma movida a café ☕
+🎓 **Developer Software** | 23 anos | Coração animado, mente geek e alma movida a café ☕
 
 👩‍💻 Analista de Sistemas em formação e apaixonada por transformar ideias em interfaces vivas. Sou aquela dev que vibra com um código limpo, se empolga com um layout bem alinhado e acredita que um bom café resolve qualquer bug.
 
