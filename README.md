@@ -72,5 +72,4 @@ Tenho experiência em:
 
 <!-- Assinatura com imagem no canto inferior direito -->
 <div align="right">
-  <img src="./assets/pixel-xicara.jpeg" alt="Assinatura Pixel Xícara" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="7652008236817518167" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coffee-cat-gif-7652008236817518167">Coffee Cat GIF</a>from <a href="https://tenor.com/search/coffee+cat-gifs">Coffee Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
