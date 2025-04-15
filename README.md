@@ -70,7 +70,6 @@ Tenho experiência em:
 
 > “Códigos constroem o futuro, mas é a imaginação humana que o torna extraordinário.” - Larissa Campos 🩵
 
-<!-- Assinatura com imagem no canto inferior direito -->
 <div align="right">
   <img src="https://media.tenor.com/eJLIhyWbYV4AAAAC/coffee-cat.gif" alt="Coffee Cat" width="150"/>
 </div>
