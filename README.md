@@ -51,6 +51,13 @@ Muito prazer, sou **Larissa Campos**, Analista de Sistemas com experiência em:
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
