@@ -68,7 +68,7 @@ Muito prazer, sou **Larissa Campos**, Analista de Sistemas com experiência em:
 
 ## ☕ Vamos tomar um café virtual?
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/larissa-campos-227035243/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
